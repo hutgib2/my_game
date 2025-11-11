@@ -1,0 +1,37 @@
+idea 1: a swordsman has to go through a bunch of rooms full of hordes of enemies and bosses
+he can also use other melee weapons like a spiked mace or a spiked shield.
+gameplay examples: https://www.youtube.com/watch?v=25rMWDPU35o or https://www.youtube.com/watch?v=AM0aSJ4ArN4
+idea 2: a game like cuphead except your a swordsman with melee range instead
+you can swing sword in 8 different directions.
+idea 3: a typical fighter game but you are either hurt by spikes at the edge of map or die by falling down hole
+hole in the middle, 1 hole in the far left, 1 hole in the far right to avoid.
+idea 4: a game show like quiz with original lifeline ideas
+
+melee archero ideas:
+1. Player is either a Monster, Alien or Demon
+
+2. Players fights against superhero and/or anime protagonists rip-offs as boss fights
+
+3. Regular Enemies are initially regular humans with rocks and cars, then cops and helicopters, 
+then the army and lastly robots like iron man suits
+
+4. Player will level up after clearing rooms at an increasingly slow rate, max level is 14
+
+room 2: level 2
+room 4: level 3
+room 7: level 4
+room 11: level 5
+room 16: level 6
+room 22: level 7
+room 29: level 8
+room 37: level 9
+room 46: level 10
+room 56: level 11
+room 67: level 12
+room 79: level 13
+room 92: level 14
+
+5. an xp bar will be on the screen representing what level you are and how much you need to level up
+
+6. an ooze monster will spawn every 5 rooms starting in room 5 and ending in room 95 who will
+give you an option to either fully heal or a small upgrade.
