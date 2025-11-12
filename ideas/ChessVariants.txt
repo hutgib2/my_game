@@ -1,0 +1,41 @@
+idea 1: chess but all pieces are queens except for the king.
+idea 2: chess but all pieces are pawns except for the king.
+idea 3: chess reboot
+
+chess reboot pieces:
+replacements: 
+1. peasant replaces pawn
+2. dragon replaces knight
+3. archer replaces queen
+4. wizard replaces bishop
+5. catapult replaces rook
+6. emperor replace king
+
+peasant:
+can only move one even on its first move and there's 8 of them.
+can only move and kill forwards. 
+can promote if it reaches other sides of map.
+
+dragon:
+can move up to 2 spaces in all directions per turn and there's 2 of them.
+can move through enemy piece if there's an empty tile.
+
+archer:
+only 1 archer on board and can move 1 tile in all directions per turn but cannot kill by moving.
+can kill an enemy up to to 3 tiles away every turn but no one can move on the same turn.
+
+wizard:
+can move 1 tile in all directions per turn but cannot move an opponent on same turn.
+can move any enemy and ally piece to any tile every 2 turns but no one can move on the same turn.
+cannot move stunned enemies and allies and there are 2 of them.
+
+catapult:
+can move 1 tile in all directions per turn but cannot stun on same turn.
+can stun any enemy to any tile for 2 turns every 3 turns but no one can move on the same turn.
+cannot stun enemies that were just moved and there are 2 of them.
+
+emperor:
+only one emperor and can move like the queen piece but 
+player will lose if the emperor is put in checkmate.
+
+chess board is still the same.

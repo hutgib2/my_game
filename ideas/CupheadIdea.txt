@@ -1,0 +1,7 @@
+player: a pot with a melee ranged weapon
+
+boss phase 1: ms. chalice
+boss phase 2: mugman
+boss phase 3: cuphead
+boss phase 4: elder kettle
+boss in general: each have 100 hp and are all giant.

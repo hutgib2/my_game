@@ -1,0 +1,43 @@
+game show inspired idea
+Lifelines:
+1. The Hint
+2. Revive Lifeline
+3. Cards
+may add more
+
+question prize:
+1. £42
+2. £100
+3. £200
+4. £300
+5. £500
+6. £750
+7. checkpoint £1,000
+8. £2,000
+9. $4,000
+10. £7,500
+11. £10,000
+12. £12,800
+13. £16,000
+14. £20,000
+15. checkpoint £32,000
+16. £50,000
+17. £64,000
+18. £100,000
+19. £200,000
+20. £400,000
+21. £800,000
+22. checkpoint £1,000,000
+23. £2,000,000
+24. £10,000,000
+25. £100,000,000
+26. checkpoint: £250,000,000
+27. £500,000,000
+28. £750,000,000
+29. £999,999,999
+30. £∞
+
+question category ideas:
+1. you have to guess the original location of a liminal space
+2. guess a song's music genre
+3. computer science related questions

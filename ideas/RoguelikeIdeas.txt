@@ -1,11 +1,6 @@
 idea 1: a swordsman has to go through a bunch of rooms full of hordes of enemies and bosses
 he can also use other melee weapons like a spiked mace or a spiked shield.
 gameplay examples: https://www.youtube.com/watch?v=25rMWDPU35o or https://www.youtube.com/watch?v=AM0aSJ4ArN4
-idea 2: a game like cuphead except your a swordsman with melee range instead
-you can swing sword in 8 different directions.
-idea 3: a typical fighter game but you are either hurt by spikes at the edge of map or die by falling down hole
-hole in the middle, 1 hole in the far left, 1 hole in the far right to avoid.
-idea 4: a game show like quiz with original lifeline ideas
 
 melee archero ideas:
 1. Player is either a Monster, Alien or Demon
