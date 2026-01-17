@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="64" tileheight="64" infinite="1" nextlayerid="2" nextobjectid="1">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="64" tileheight="64" infinite="1" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="TilesetFloor" tilewidth="64" tileheight="64" tilecount="30" columns="5">
+  <image source="Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloor.png" width="352" height="417"/>
+ </tileset>
+ <tileset firstgid="31" name="TilesetInteriorFloor" tilewidth="64" tileheight="64" tilecount="20" columns="5">
+  <image source="Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Interior/TilesetInteriorFloor.png" width="352" height="272"/>
+ </tileset>
+ <tileset firstgid="51" name="TilesetField" tilewidth="64" tileheight="64" tilecount="3" columns="1">
+  <image source="Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetField.png" width="80" height="240"/>
+ </tileset>
  <layer id="1" name="Tile Layer 1" width="64" height="64">
   <data encoding="csv"/>
  </layer>
+ <objectgroup id="2" name="Object Layer 1"/>
+ <objectgroup id="3" name="Object Layer 2"/>
 </map>

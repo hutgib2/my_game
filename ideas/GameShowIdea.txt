@@ -3,7 +3,7 @@ Lifelines:
 1. The Hint
 2. Revive Lifeline
 3. Cards
-may add more
+may add more or change them
 
 question prize:
 1. £42
@@ -41,3 +41,5 @@ question category ideas:
 1. you have to guess the original location of a liminal space
 2. guess a song's music genre
 3. computer science related questions
+4. url trivia generator
+5. guess really obscure song
